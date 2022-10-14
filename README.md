@@ -1,5 +1,5 @@
 
-# Hey there :joy:,
+# Hey there :waving hand:,
 
 I am **Omolade Lekan**, a *frontend developer and UI designer* based in Nigeria. 
 I am currently learning javaScript to become a frontend developer.
